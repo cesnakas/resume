@@ -5,15 +5,12 @@ contact:
   - icon: fa-telegram
     text: Telegram
     link: https://t.me/cesnakas
-  - icon: fa-phone-square
-    text: your-phone-num
-    link: https://www.cesnakas.com
   - icon: fa-globe
-    text: your-website.com
+    text: www.cesnakas.com
     link: https://www.cesnakas.com
   - icon: fa-github
-    text: your-github
-    link: https://www.cesnakas.com
+    text: GitHub
+    link: https://github.com/cesnakas
 education:
   - university: Your First University
     duration: Jul 2011 - Dec 2012
